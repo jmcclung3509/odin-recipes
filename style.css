@@ -9,6 +9,7 @@
 body {
     padding: 40px;
     background-color: lightyellow;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 h1,
@@ -22,6 +23,7 @@ h1 {
 
 h3 {
     font-size: 30px;
+    color: rgb(59, 58, 58)
 }
 
 h5 {
@@ -40,12 +42,14 @@ img {
 a {
     text-decoration: none;
     color: blue;
+    font-style: italic;
 }
 
 .home {
     font-size: 24px;
     color: red;
     text-decoration: none;
+    font-style: normal;
 }
 
 .lasagna-img {
