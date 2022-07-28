@@ -1,0 +1,65 @@
+/* .container {
+    width: 100%;
+    height: 100vh;
+    background-image: url("images/elle-hughes-a5_ismmNYXA-unsplash.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    opacity: .5;
+} */
+body {
+    padding: 40px;
+    background-color: lightyellow;
+}
+
+h1,
+h3 {
+    text-align: center;
+}
+
+h1 {
+    font-size: 62px;
+}
+
+h3 {
+    font-size: 30px;
+}
+
+h5 {
+    font-size: 24px;
+}
+
+p {
+    font-size: 20px;
+}
+
+img {
+    margin: auto;
+    width: 100%;
+}
+
+a {
+    text-decoration: none;
+    color: blue;
+}
+
+.home {
+    font-size: 24px;
+    color: red;
+    text-decoration: none;
+}
+
+.lasagna-img {
+    width: 50%;
+    margin: 0 25%;
+}
+
+li {
+    font-size: 24px;
+    list-style: none;
+    padding: 10px;
+
+}
+
+ol>li {
+    list-style-type: style;
+}
